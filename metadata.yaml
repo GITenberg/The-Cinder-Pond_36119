@@ -1,0 +1,42 @@
+_repo: The-Cinder-Pond_36119
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williamson, Ada Clendenin
+    aliases:
+    - Williamson, Ada C.
+    - Williamson, A. C. (Ada Clendenin)
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '38124'
+    url: http://www.gutenberg.org/2009/agents/38124
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rankin, Carroll Watson
+    birthdate: 1870
+    gutenberg_agent_id: '38085'
+    url: http://www.gutenberg.org/2009/agents/38085
+description: Fall into a bygone world with The Cinder Pond from celebrated juvenile
+  fiction author Carroll Watson Rankin. Set in Michigan, the novel follows protagonist
+  Jeannette Huntington Duval as she leaves her struggling family to live with affluent
+  relatives for several years. Will she be able to bridge the class gap and thrive
+  in this starkly different environment? The Cinder Pond is a gratifying read that
+  fans of books like Anne of Green Gables and Pollyanna will definitely enjoy.
+gutenberg_issued: '2011-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Upper Peninsula (Mich.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: The Cinder Pond
+url: http://www.gutenberg.org/ebooks/36119
